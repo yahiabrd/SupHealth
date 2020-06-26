@@ -11,7 +11,7 @@ Application features :
 - Directly searching a specific country with the search bar
 
 
-Projet demonstration : 
+Project demonstration : 
 
 Gif demonstration :
 
